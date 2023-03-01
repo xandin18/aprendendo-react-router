@@ -533,5 +533,7 @@ root.render(
 ```
 
 > Ok agora que nós sabemos bastante sobre react router vamos praticar, vamos aos execícios, faça esse logo abaixo e boa sorte😛.
+
 <hr>
+	
 > Bom valeu pra quem acompanhou até aqui, espero que tenha ajudado te vejo em próximos projetos, até😄.
