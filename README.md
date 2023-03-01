@@ -534,10 +534,4 @@ root.render(
 
 > Ok agora que nós sabemos bastante sobre react router vamos praticar, vamos aos execícios, faça esse logo abaixo e boa sorte😛.
 <hr>
-
-
- 1. [ ] Fazer um site onde tenha 3 páginas Home, Pokemon e Filmes o Home pode ser feito com personalização pessoal e as outras 2 consuma de uma api. Obvio que é usando o React router, para que mantenha o header e o footer em todas páginas terá que usar o Outlet e para fazer as rotas também será necessário o react router, faça botões que redirecione a páginas, faça a página de erro estilizado com pokemons.
-<hr>
-
 > Bom valeu pra quem acompanhou até aqui, espero que tenha ajudado te vejo em próximos projetos, até😄.
-
